@@ -6,7 +6,6 @@ It lets you track study progress, practice sessions, and manage your prep schedu
 * Track daily coding & study hours
 * Monitor topic-wise progress
 * Simple data visualization using `Pandas` & `NumPy`
-* API integration ready (for future add-ons)
 
 **Tech Stack**
 
